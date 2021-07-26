@@ -1,0 +1,54 @@
+{
+    "cards": [
+
+    {
+        "id": 1, 
+        "eng": "Every man for himself",   
+        "thai" : "ตัวใครตัวมัน",   
+        "ex": "It's always been every man for himself in this industry."
+        
+            },
+    
+    {
+        "id": 2, 
+        "eng": "Let's skedaddle", 
+        "thai" : "ไปกันเลย ลุยกันเลย", 
+        "ex": "Whenever there was work to be done, he skedaddled."
+    },
+    
+    {
+        "id": 3, 
+        "eng": "It takes two to tango", 
+        "thai" : "ตบมือข้างเดียวไม่ดัง", 
+        "ex": "I hadn't been all that easy to deal with, myself—it took two to tango"
+    },
+    
+    {
+        "id": 4, 
+        "eng": "Innate", 
+        "thai" : "ความสามารถที่มีมาโดยกำเนิด", 
+        "ex": "he says females are innately predisposed to learn about people and their emotions"
+    },
+    
+    {
+        "id": 5, 
+        "eng": "dumbfounded", 
+        "thai" : "อึ้ง ทึ่ง งง", 
+        "ex": " When the children went to see the magician, they were dumbfounded when he made a rabbit disappear."
+    },
+    
+    {
+        "id": 6, 
+        "eng": "English_6", 
+        "thai" : "Thai_6", 
+        "ex": "Jap_6"
+    },
+    
+    {
+        "id": 7,  
+        "eng": "English_7", 
+        "thai" :"Thai_7", 
+        "ex": "Jap_7"
+    }
+
+    ]}
